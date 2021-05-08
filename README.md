@@ -21,11 +21,19 @@ GET - indivisual content(or indivisual post)
 4. Data.json is used for storing Data.
 5. ./Uploads contains all image files to be used for(if changed make sure to rename properly or update in DB at post-image section)
 6. example storgage form in Data.json 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------{
+
+{
+
     "id": "1581461442206",
+    
     "title": "This is a New Blog Post",
+    
     "content": "This is the content! ",
+    
     "post_image": "uploads/post-image-1581461442199.jpg",
+    
     "added_date": "1581461442206"
+    
 }
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
