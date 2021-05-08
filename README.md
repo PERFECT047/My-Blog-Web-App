@@ -1,5 +1,5 @@
 # My-Blog-Web-App
-Blogging Website with API in repo (My-Blog-Web-API). 
+Blogging Website with API in repo (My-Blog-API). 
 
 POST - To make a new post in the blogging website
 
