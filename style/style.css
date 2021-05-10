@@ -79,25 +79,13 @@ header::after{
 .main-container a{
     text-decoration: none;
     color:black;
-    background-color: rgb(235, 235, 235);
     justify-content: center;
     align-items:center ;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    transition: all 0.5 ease;
-}
-
-.main-container a:hover{
-    border:none;
-    border-left: 3px solid rgb(141, 141, 141);
-    border-right: 3px solid rgb(141, 141, 141);
-    background-color:rgb(233, 233, 233);
-    /* box-shadow: 0 2rem 5rem 0 rgba(0,0,0,.3); */
 }
 
 .post{
     display: flex;
-    border: 1px solid #c5c5c570;
+    border: 1px solid #eaecee70;
     border-radius: 10px;
     min-height: 200px;
     overflow: hidden;
@@ -197,6 +185,7 @@ footer {
     background-color: #001124;
     transform: translate3d(0,-2px,10px);
 }
+
 .navigation a {
     text-decoration: none;
     color: #333;
