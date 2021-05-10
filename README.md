@@ -1,4 +1,4 @@
-# My-Blog-Web-App
+# My-Blog-Web-App (Responsive Design)
 Blogging Website with API in repo (My-Blog-API). 
 
 POST - To make a new post in the blogging website
